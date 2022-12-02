@@ -1,6 +1,6 @@
 var gc = new GameCanvas();
 
-var points = textToPoints(" 祝 茜 茜 姐 生 日 快 乐 ！", 15, "Anton");
+var points = textToPoints("小 茵 祝 茜 茜 姐 生 日 快 乐 ！", 15, "Anton");
 
 
 var titleParticles = [];
